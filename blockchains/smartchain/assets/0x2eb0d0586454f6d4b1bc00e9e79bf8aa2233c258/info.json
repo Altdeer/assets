@@ -1,25 +1,11 @@
 {
   "name": "ALTDeer",
-  "symbol": "ALT",
-  "type": "BEP20",
-  "decimals": 18,
-  "description": "ALTDeer (ALT) is a fixed-supply BEP-20 token on BNB Smart Chain powering the ALTDeer mining app, presale platform, and future Web3 utilities with transparent tokenomics and a long-term halving model.",
   "website": "https://altdeer.com",
-  "explorer": "https://bscscan.com/token/0x2eb0d0586454f6d4b1bc00e9e79bf8aa2233c258",
+  "description": "ALTDeer (ALT) is a fixed-supply BEP-20 token on BNB Smart Chain powering the ALTDeer mining app, presale platform, and future Web3 utilities with transparent tokenomics and a long-term halving model.",
+  "explorer": "https://bscscan.com/token/0x2Eb0D0586454f6D4B1BC00e9E79Bf8aA2233c258",
+  "type": "BEP20",
+  "symbol": "ALT",
+  "decimals": 18,
   "status": "active",
-  "id": "0x2eb0d0586454f6d4b1bc00e9e79bf8aa2233c258",
-  "links": [
-    { "name": "twitter", "url": "https://x.com/altdeerCloud" },
-    { "name": "telegram", "url": "https://t.me/altdeerGlobal" },
-    { "name": "whitepaper", "url": "https://altdeer.com/Altdeer_whitePaper.pdf" },
-    { "name": "youtube", "url": "https://www.youtube.com/@altdeercloud" },
-    { "name": "reddit", "url": "https://www.reddit.com/user/AltDeer" },
-    { "name": "facebook", "url": "https://www.facebook.com/altdeer" },
-    { "name": "instagram", "url": "https://www.instagram.com/altdeercloud/" },
-    { "name": "threads", "url": "https://www.threads.net/@altdeercloud" },
-    { "name": "tiktok", "url": "https://www.tiktok.com/@hashratealtdeer" },
-    { "name": "medium", "url": "https://medium.com/@altdeercloud" },
-    { "name": "playstore", "url": "https://play.google.com/store/apps/details?id=com.altdeer.app" },
-    { "name": "coinmarketcap", "url": "https://coinmarketcap.com/community/profile/AltDeer" }
-  ]
+  "id": "0x2Eb0D0586454f6D4B1BC00e9E79Bf8aA2233c258"
 }
